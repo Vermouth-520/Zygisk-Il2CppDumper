@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagename"
+#define 崩坏3_6.4.0.apk "com.game.packagename"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
